@@ -7,3 +7,4 @@ def get_data():
     return response.json()["results"]
 
 question_data = get_data()
+
